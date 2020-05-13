@@ -1,4 +1,4 @@
-17462987055671976
+17480473286255541
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -6138,6 +6138,13 @@ capacitor tantalum
 0
 2
 2
+Conn_TE-DDR2-SODIMM
+Conn_TE-DDR2-SODIMM-0.6-200P-doublesided
+
+
+0
+202
+200
 Connector
 Banana_Jack_1Pin
 Single banana socket, footprint - 6mm drill
@@ -6688,13 +6695,6 @@ Connector_Coaxial
 SMA_Amphenol_132203-12_Horizontal
 https://www.amphenolrf.com/media/downloads/1769/132203-12.pdf
 SMA THT Female Jack Horizontal
-0
-5
-2
-Connector_Coaxial
-SMA_Amphenol_132289_EdgeMount
-http://www.amphenolrf.com/132289.html
-SMA
 0
 5
 2
@@ -47270,6 +47270,13 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+HDMI_MOLEX
+HDMI_MOLEX_471510001
+
+
+0
+23
+20
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -66212,6 +66219,20 @@ TO-264-5 Vertical RM 3.81mm
 0
 5
 5
+Polyfuse_Bourns_MF-PSML
+Fuse_SMD1206_Reflow
+Fuse, Sicherung, SMD1206, Littlefuse-Wickmann, Reflow,
+Fuse Sicherung SMD1206 Littlefuse-Wickmann Reflow 
+0
+2
+2
+Polyfuse_Bourns_MF-PSML
+Polyfuse_0805
+Fuse, Sicherung, SMD1206, Littlefuse-Wickmann, Reflow,
+Fuse Sicherung SMD1206 Littlefuse-Wickmann Reflow 
+0
+2
+2
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
@@ -76460,6 +76481,20 @@ varistor SIOV
 0
 2
 2
+audio_jacks
+JC-128
+
+
+0
+5
+5
+ffc_conn
+FPC_22
+
+
+0
+24
+23
 lib_fp
 0.156_2pin_rt_angle
 
@@ -76559,6 +76594,13 @@ capacitor 1210
 2
 2
 lib_fp
+Conn_TE-DDR2-SODIMM-0.6-200P-doublesided
+
+
+0
+202
+200
+lib_fp
 Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm
 crystal Epson Toyocom FA-238 https://support.epson.biz/td/api/doc_check.php?dl=brief_fa-238v_en.pdf, 3.2x2.5mm^2 package
 SMD SMT crystal
@@ -76606,7 +76648,7 @@ HSWA2-30DR+
 
 0
 21
-20
+21
 lib_fp
 Header 4 Keyed No 3D
 
@@ -76726,6 +76768,13 @@ LFPAK33
 0
 9
 3
+lib_fp
+LSR_LOGO_27mm_Wide_NEG
+
+
+0
+0
+0
 lib_fp
 LSR_LOGO_27mm_wide
 
@@ -76902,6 +76951,27 @@ SMA
 5
 2
 lib_fp
+SMA_Amphenol_132289_EdgeMount_copy
+http://www.amphenolrf.com/132289.html
+SMA
+0
+5
+2
+lib_fp
+SMA_Plug_Linx_Technologies_EdgeMount_CONSMA013.062
+SMA Connector Plug, Male Pin 50Ohm Board Edge, End Launch Solder
+SMA
+0
+5
+2
+lib_fp
+SMA_Taoglas_Limited_Narrow_EdgeMount
+SMA Connector Jack, Female Socket 50Ohm Board Edge, End Launch Solder
+SMA
+0
+5
+2
+lib_fp
 SOD123
 
 
@@ -76956,6 +77026,13 @@ TDSON-8
 
 0
 9
+3
+lib_fp
+TO-92_Inline
+TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
 3
 lib_fp
 TO-220-3_Vertical
